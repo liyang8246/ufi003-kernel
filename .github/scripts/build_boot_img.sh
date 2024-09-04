@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#qaq
 DOWNLOAD_SERVER="images.linuxcontainers.org"
 DOWNLOAD_INDEX_PATH="/meta/1.0/index-system"
 DOWNLOAD_DISTRO="debian;bookworm;arm64;default"
